@@ -1,0 +1,7 @@
+node_modules/
+.history/
+cache/
+log/
+test-results/
+tmp/
+tools/
